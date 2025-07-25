@@ -35,28 +35,6 @@ Delhi, India 🇮🇳 | MERN Stack Enthusiast | Python & Power BI Explorer
 
 ---
 
-## 📁 Notable Projects
-
-### **WeMeet – Video Calling App**  
-React, WebRTC, Socket.IO, Node.js  
-- Implemented real-time video signaling and peer-to-peer calls  
-- Built interactive UI with responsive design
-
-### **Sketi AI Image Generator**  
-React & OpenAI DALL·E API  
-- Generates AI-driven images from text prompts  
-- Includes live display of generated images and download feature
-
-### **Sales Dashboard (Power BI + Excel)**  
-Built dynamic dashboards to analyze sales trends, regional performance, and KPIs.  
-
-### **COVID‑19 & Titanic Data Analytics**  
-Python, Pandas, Matplotlib, Seaborn  
-- Conducted EDA to visualize case trends & survival patterns  
-- Delivered data-backed insights with clean code notebooks
-
----
-
 ## 📄 Certifications & Education
 
 | Certification | Issuing Organization | Date |
@@ -68,28 +46,73 @@ Python, Pandas, Matplotlib, Seaborn
 
 **MCA (In Progress)** – IGNOU (2025)  
 **BCA** – IGNOU (2024)
+---
+
+Here’s a refined and more engaging version of the sections you shared. It includes improved language, structure, and formatting to make your projects and goals stand out more professionally and clearly:
+
+---
+
+## 📁 Notable Projects
+
+### 🎥 **WeMeet – Real-Time Video Calling App**
+
+**Tech Stack:** React.js • WebRTC • Socket.IO • Node.js
+
+* Developed a seamless one-on-one video calling experience using WebRTC and Socket.IO for real-time signaling.
+* Engineered a responsive and modern UI to ensure smooth cross-device compatibility.
+* Deployed on [Render](https://wemeet-video-calling-app.onrender.com/) with optimized peer connection logic.
+
+---
+
+### 🖼️ **Sketi – AI Image Generator**
+
+**Tech Stack:** React.js • OpenAI DALL·E API • CSS
+
+* Integrated OpenAI’s API to generate high-quality images from user-input text prompts.
+* Designed an intuitive UI with live image rendering, history tracking, and download support.
+* [Live Demo](https://sketi.onrender.com)
+
+---
+
+### 📊 **Sales Dashboard (Power BI + Excel)**
+
+**Tools:** Power BI • Excel
+
+* Built interactive dashboards to visualize sales performance, regional trends, and KPIs.
+* Enabled data slicing and filtering using advanced DAX functions for executive-level reporting.
+
+---
+
+### 📈 **COVID-19 & Titanic Data Analytics**
+
+**Tech Stack:** Python • pandas • Matplotlib • Seaborn • Jupyter Notebook
+
+* Performed end-to-end exploratory data analysis (EDA) on global COVID-19 trends and Titanic survival dataset.
+* Cleaned, visualized, and interpreted data to generate actionable insights.
+* Created reproducible Jupyter Notebooks with visual storytelling.
 
 ---
 
 ## 🎯 What I’m Looking For
 
-- Exciting **MERN Stack** ● **Frontend / Full‑Stack Web Dev** roles  
-- Opportunities to grow as a **Data Analyst** using Power BI and Python  
-
----
-
-## 📈 GitHub Activity
-
-Showing recent contributions helps employers see your consistent coding 🔄
+* 🔹 Frontend / Full-Stack Developer roles focused on **MERN Stack** technologies
+* 🔹 Opportunities in **Data Analytics** where I can apply Python, Power BI, and data storytelling
+* 🔹 Projects that combine **technology, creativity, and impact**
 
 ---
 
 ## 🌟 Fun Fact
 
-I believe the future is built on creativity + code. Let’s craft something impactful together!
+When I’m not coding or analyzing data, I’m either learning something new or brainstorming my next side project. I believe innovation starts with curiosity—and a clean codebase.
 
 ---
 
-### ⚡ Let’s Build the Future  
-Interested in collaborating, hiring, or learning together?  
-**Star ⭐**, connect via **LinkedIn**, or drop me a **message**.  
+### ⚡ Let’s Build the Future
+
+🚀 Whether you're hiring, collaborating, or just curious—let’s connect!
+**Star** this profile ⭐ | [📧 Email me](mailto:skashyap9711@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/suraj-kashyap-78627b243/)
+
+---
+
+Let me know if you'd like a version with emojis/icons removed or tailored more toward a recruiter vs open-source collaborators.
+
