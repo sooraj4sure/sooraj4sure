@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  📍 Delhi, India 🇮🇳 | 🎓 MCA Candidate | 💻 Building the Future with Code & Data
+  📍 Delhi, India 🇮🇳 |🎓 BCA Graduate | 🎓 MCA Candidate | 💻 Building the Future with Code & Data
 </p>
 
 <div align="center">
