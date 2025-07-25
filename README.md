@@ -13,6 +13,13 @@ Delhi, India 🇮🇳 | MERN Stack Enthusiast | Python & Power BI Explorer
 - Continuous contributor to personal projects and open-source codebases
 
 ---
+## 🤝 How to Connect
+
+- 📫 Email: skashyap9711@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/suraj‑kashyap‑78627b243](https://www.linkedin.com/in/suraj-kashyap-78627b243/)  
+- 🌐 Portfolio: [sooraj4sure.onrender.com](https://sooraj4sure.onrender.com/)  
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +31,7 @@ Delhi, India 🇮🇳 | MERN Stack Enthusiast | Python & Power BI Explorer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj4sure&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sooraj4sure&show_icons=true&theme=tokyonight)
+
 
 ---
 
@@ -56,17 +63,11 @@ Python, Pandas, Matplotlib, Seaborn
 |---------------|-----------------------|------|
 | CS50: Python Programming | Harvard University | Jul 2025 |
 | Remote Sensing & Deep Learning | ISRO | Jul 2022 |
+| Cybersecurity Skilling Programme | IIT Kanpur | Jul 2023 |
+| 3D Modelling by Autodesk | IIT Roorkee | Mar 2023 |
 
 **MCA (In Progress)** – IGNOU (2025)  
 **BCA** – IGNOU (2024)
-
----
-
-## 🤝 How to Connect
-
-- 📫 Email: skashyap9711@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/suraj‑kashyap‑78627b243](https://www.linkedin.com/in/suraj-kashyap-78627b243/)  
-- 🌐 Portfolio: [sooraj4sure.onrender.com](https://sooraj4sure.onrender.com/)  
 
 ---
 
