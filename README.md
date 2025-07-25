@@ -26,7 +26,7 @@
 
 ```javascript
 const suraj = {
-    education: ["MCA (In Progress) - IGNOU", "BCA Graduate - IGNOU"],
+    education: ["MCA (In Progress) ", "BCA Graduate "],
     currentFocus: ["Full-Stack Development", "Data Analytics" , "Machine Learning", "AI Integration"],
     techStack: {
         frontend: ["React.js", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
