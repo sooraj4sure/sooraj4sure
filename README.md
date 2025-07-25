@@ -35,7 +35,7 @@ const suraj = {
         dataScience: ["Python", "Pandas", "NumPy", "Power BI", "Matplotlib"],
         tools: ["Git", "GitHub", "Vercel", "Render"]
     },
-    currentlyLearning: ["Generative AI", "WebRTC", "Advanced React Patterns"],
+    currentlyLearning: [ "Machine Learning","Generative AI", "WebRTC", "Advanced React Patterns"],
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
 ```
