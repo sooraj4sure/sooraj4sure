@@ -1,245 +1,256 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Suraj
-
+<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Data+Analyst+%26+Visualization.;Machine+Learning;MERN+Stack+Enthusiast;Python+%26+Power+BI+Explorer" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coding GIF"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:36BCF7&height=220&section=header&text=Suraj%20Kumar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Explainable%20AI%20%E2%80%A2%20Applied%20NLP%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
-<p align="center">
-  📍 Delhi, India 🇮🇳 |🎓 BCA Graduate | 🎓 MCA Candidate | 💻 Building the Future with Code & Data
-</p>
+<a href="https://github.com/sooraj4sure">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=I+build+ML+systems+you+can+actually+trust.;LLM+pipelines+%E2%80%A2+Explainable+AI+%E2%80%A2+Audio+Intelligence;Computer+Vision+%E2%80%A2+Deepfake+%26+AI-Image+Forensics;From+model+%E2%86%92+API+%E2%86%92+deployed+product." alt="Typing SVG" />
+</a>
 
-<div align="center">
-  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sooraj4sure.onrender.com/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kashyap-78627b243/)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skashyap9711@gmail.com)
+<br/>
+
+📍 Delhi, India &nbsp;|&nbsp; 🎓 MCA Candidate @ IGNOU &nbsp;|&nbsp; 🌍 Open to Remote / Hybrid / On-site
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sooraj4sure.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kashyap-78627b243/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skashyap9711@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=sooraj4sure&label=Profile%20Views&color=1d4ed8&style=for-the-badge)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+## 👋 About Me
 
-```javascript
-const suraj = {
-    education: ["MCA (In Progress) ", "BCA Graduate "],
-    currentFocus: ["Full-Stack Development", "Data Analytics" , "Machine Learning", "AI Integration"],
-    techStack: {
-        frontend: ["React.js", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "REST APIs"],
-        database: ["MongoDB", "MySQL"],
-        dataScience: ["Python", "Pandas", "NumPy", "Power BI", "Matplotlib"],
-        tools: ["Git", "GitHub", "Vercel", "Render"]
-    },
-    currentlyLearning: [ "Machine Learning","Generative AI", "WebRTC", "Advanced React Patterns"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
+I'm an **AI/ML Engineer** who likes the hard part of machine learning: making models **explainable, grounded and auditable**, not just accurate. I've shipped independent projects across **LLM pipelines, explainable ML, audio intelligence and computer vision**, and I can take them end to end because I also build full-stack (Next.js, MERN).
+
+```python
+class Suraj:
+    role        = "AI / ML Engineer"
+    based_in    = "Delhi, India 🇮🇳"
+    education   = ["MCA (IGNOU, 2025 - present)", "BCA (IGNOU, 2021 - 2024)"]
+    experience  = ["ML Intern @ Codec Technologies", "Data Science Intern @ Technex, IIT (BHU) Varanasi"]
+    superpower  = "Turning ML models into trustworthy, deployed products"
+    principles  = ["Ground every LLM output in facts", "Evidence first, always auditable",
+                   "Zero hallucinations > fancy demos", "Test like it's production"]
+
+    def currently_exploring(self):
+        return ["Generative AI & LLM agents", "Explainable / Responsible AI",
+                "Deep Learning (PyTorch)", "Local-first, privacy-friendly ML"]
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ JobPilot
+**Resume Tailoring & Interview Prep Copilot**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Gemini API`
+
+- 3-stage LLM pipeline: scores resume ↔ JD fit, tailors bullets, generates gap-targeted interview questions
+- **Generate-and-verify** design: a second call audits every bullet and **auto-reverts any unsupported claim**, so no hallucinated experience
+
+[🔗 Repo](https://github.com/sooraj4sure?tab=repositories&q=jobpilot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Counterfactual Loan Explainer
+**Interpretable ML Credit-Decisioning Chatbot**
+
+`Python` `XGBoost` `SHAP` `DiCE` `FastAPI` `Next.js`
+
+- Explains credit decisions in plain language, with *why* (SHAP) and *what would change it* (DiCE counterfactuals)
+- Strict **LLM grounding contract**: narration reports only computed facts, never free-form reasoning, for regulatory-grade accuracy
+
+[🔗 Repo](https://github.com/sooraj4sure?tab=repositories&q=loan)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Meeting Intelligence System
+**Local-First Audio → Insights Pipeline**
+
+`Python` `FastAPI` `faster-whisper` `pyannote.audio` `scikit-learn` `PostgreSQL/pgvector` `React`
+
+- ASR + speaker diarization + **5 custom scikit-learn classifiers**, with **zero paid APIs and zero recurring cost**
+- **Evidence-first** architecture: every decision or action item links to its source transcript segment and confidence score
+
+[🔗 Repo](https://github.com/sooraj4sure?tab=repositories&q=meeting)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ ImageForensics AI
+**Explainable Real vs. AI-Generated Image Detector**
+
+`Python` `PyTorch` `ResNet-18` `FastAPI` `Streamlit`
+
+- Multi-branch CNN fusing **RGB + frequency + noise-residual** signals, trained on 12,000 images across Stable Diffusion, GAN and Midjourney
+- Ablations, **unseen-generator** testing, robustness suite, temperature-scaling calibration and **Grad-CAM**; **104 tests at 96%+ coverage**
+
+[🔗 Repo](https://github.com/sooraj4sure?tab=repositories&q=forensics)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🛠️ More projects (full-stack)</b></summary>
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| **AutoVibe** | E-commerce platform for car accessories: product catalog, order flows, Cloudinary media uploads | `Next.js` `MongoDB` `Cloudinary` `REST` `Tailwind` |
+| **Sketi** | AI image generator with history and downloads | `React` `HuggingFace API` |
+| **Sylvie** | Context-aware AI chat partner | `React` `Groq API` |
+| **WeMeet** | Real-time one-on-one video calling | `React` `WebRTC` `Socket.IO` `Node.js` |
+| **Portfolio** | Responsive personal site | `React` `Tailwind` |
+
+[🔗 Sketi](https://sketi.onrender.com) · [🔗 Sylvie](https://sylvie-pink.vercel.app/) · [🔗 WeMeet](https://wemeet-video-calling-app.onrender.com/) · [🔗 Portfolio](https://sooraj4sure.onrender.com/)
+
+</details>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
+## 🧩 How I Build: *Trustworthy AI*
+
+```mermaid
+flowchart LR
+    A[Data / Audio / Image / Text] --> B[Preprocess & Feature Engineering]
+    B --> C[Model: XGBoost / CNN / LLM]
+    C --> D{Verify & Ground}
+    D -->|Unsupported claim| E[Auto-revert / Reject]
+    D -->|Evidence-backed| F[Explain: SHAP · DiCE · Grad-CAM]
+    F --> G[API: FastAPI]
+    G --> H[App: Next.js / React]
+    style D fill:#1d4ed8,color:#fff
+    style F fill:#36BCF7,color:#000
+```
+
+---
+
+## 🧠 Tech Arsenal
 
 <div align="center">
 
-### 🧠 Data Science & Analytics
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" align="right"/>
+**Machine Learning & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+`NLP (NLTK)` · `SHAP` · `DiCE` · `Explainable AI` · `Feature Engineering` · `Model Evaluation` · `EDA`
+
+**Data & Visualization**
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🌐 Frontend Development
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" align="left"/>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-### 🧩 Backend Development
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="200" align="right"/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Deployment
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200" align="left"/>
+`Matplotlib` · `Seaborn` · `SQL`
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_(basic)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
-
-<br clear="both"/>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Skills Overview
+## 💼 Experience
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,mysql,js,html,css,git,github,tailwind,bootstrap&theme=dark" />
-</div>
+| Role | Where | Duration | Highlights |
+|---|---|---|---|
+| **Machine Learning Intern** | Codec Technologies | 4 months | Data preprocessing, EDA, model-building workflows, and the end-to-end ML cycle (cleaning → feature engineering → evaluation) in Python |
+| **Data Science Intern** | Technex, IIT (BHU) Varanasi | 2 months | Built a Titanic survival prediction model: data cleaning, feature engineering, classification evaluation with scikit-learn |
 
 ---
 
 ## 🏆 Certifications & Education
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" align="right">
+| 🎖️ Certification | 🏛️ Issuer | 📅 Date |
+|---|---|---|
+| Prompt Engineering & Programming with OpenAI | Columbia+ | Aug 2025 |
+| CS50: Introduction to Programming with Python | Harvard University | Jul 2025 |
+| Cloud Computing | NIELIT Delhi | Jan 2025 |
+| Machine Learning to Deep Learning | ISRO | Jul 2022 |
 
-| 🎖️ Certification | 🏛️ Institution | 📅 Date |
-|-------------------|----------------|----------|
-| **CS50: Python Programming** | Harvard University | Jul 2025 |
-| **Remote Sensing & Deep Learning** | ISRO | Jul 2022 |
-| **Cybersecurity Skilling Programme** | IIT Kanpur | Jul 2023 |
-| **3D Modelling by Autodesk** | IIT Roorkee | Mar 2023 |
-
-**🎓 Education:**
-- **MCA (Master of Computer Applications)** - IGNOU (In Progress, 2025)
-- **BCA (Bachelor of Computer Applications)** - IGNOU (Completed, 2024)
+🎓 **MCA**, Indira Gandhi National Open University (Jan 2025 - Present)
+🎓 **BCA**, Indira Gandhi National Open University (Jan 2021 - Jan 2024)
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
+## 📊 GitHub Stats
 
 <div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sooraj4sure&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj4sure&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sooraj4sure&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-### 🖼️ **Sketi – AI Image Generator**
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" align="left"/>
-
-**`React.js` `HuggingFace API` `CSS`**
-
-🎯 High-quality image generation from text prompts  
-📱 Intuitive UI with history tracking & download support  
-🔗 [Live Demo](https://sketi.onrender.com)
-
----
-### 🖼️ **Sylvie – AI (Chatting Partner)**
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" align="right"/>
-
-**`React.js` `Groq Api` `JavaScript` `CSS`**
-
-🧠 Intelligent conversation with context awareness  
-💬 Real-time response generation and learning  
-🎯 Personalized user interaction experience 
-🔗 [Live Demo](https://sylvie-pink.vercel.app/)
-
----
-### 🎥 **WeMeet – Real-Time Video Calling App**
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100" align="left"/>
-
-**`React.js` `WebRTC` `Socket.IO` `Node.js`**
-✨ Seamless one-on-one video calling experience  
-🎨 Modern responsive UI with cross-device compatibility  
-🚀 [Live Demo](https://wemeet-video-calling-app.onrender.com/)
-
----
-
-
-
-### 📊 **Interactive Sales Dashboard**
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" align="right"/>
-
-**`Power BI` `Excel` `DAX Functions`**
-
-📈 Advanced sales performance visualization  
-🎛️ Interactive filtering and data slicing capabilities  
-📋 Executive-level reporting with KPI tracking
-
----
-
-### 📈 **COVID-19 & Titanic Data Analytics**
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" align="left"/>
-
-**`Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter`**
-
-🔍 End-to-end exploratory data analysis  
-📊 Visual storytelling with actionable insights  
-📓 Reproducible Jupyter Notebooks
+<img src="https://github-profile-trophy.vercel.app/?username=sooraj4sure&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> GitHub Analytics
+## 🎯 What I'm Looking For
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sooraj4sure&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+- 🤖 **AI/ML Engineer** roles: applied NLP, LLM systems, explainable ML, computer vision
+- 🌐 Teams that value **grounded, testable, auditable** AI over black-box demos
+- 🚀 Opportunities to own the **full lifecycle**: model → API → deployed app
+- 🤝 **Open-source** collaboration on responsible-AI tooling
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj4sure&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sooraj4sure&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I'm Looking For
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" align="right"/>
-
-🎯 **Frontend/Full-Stack Developer** roles focusing on **MERN Stack**  
-📊 **Data Analytics** opportunities using **Python & Power BI**  
-🚀 Projects combining **technology, creativity, and real-world impact**  
-🤝 **Open Source** contributions and collaborative projects  
-
-### 🌟 Currently Exploring
-🤖 Generative AI (OpenAI, DALL·E, Prompt Engineering)  
-💬 LLM-based applications and chatbot integration  
-📱 Real-time applications with WebRTC & Socket.IO  
-⚡ Advanced React patterns and performance optimization  
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect!
+> 💬 *Have a problem that needs ML with receipts? Let's talk.*
 
 <div align="center">
 
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skashyap9711@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kashyap-78627b243/)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sooraj4sure.onrender.com/)
 
+<br/>
 
-### 🚀 Ready to build something amazing together?
+*"Make it work, make it explainable, then make it fast."*
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skashyap9711@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kashyap-78627b243/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sooraj4sure.onrender.com/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70px">
-  
-  **💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-  <img src="https://komarev.com/ghpvc/?username=sooraj4sure&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐;Let's+build+the+future+together!+🚀;Happy+Coding!+💻" alt="Footer Typing SVG" />
 </div>
